@@ -4,6 +4,7 @@
 	box-sizing: border-box;
 	background-color: #fff;
 	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
 }
 .container{
 	max-width: 100%;
